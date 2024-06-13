@@ -1,6 +1,6 @@
 ### Olá, meu nome é Túlio Braga! 👋
 
-Meu nome é Tulio, tenho 18 anos. Atualmente estou cursando Ciência da Computação na Unisagrado, e realizando cursos na área, como HTML5, CSS3, e JavaScript. 
+Meu nome é Tulio, tenho 18 anos. Atualmente estou cursando Ciência da Computação na Unisagrado, e realizando cursos na área da computação.
 
 Sempre trabalhei com edição de vídeos, mais precisamente desde agosto de 2019. Possuo experiência em edições de vídeos em geral, domino programas como Sony Vegas, Adobe After Effects, desde montagem de tracks, até pós efeitos (VFX).
 Hoje em dia estou focados nos estudos de programação! 🚀
